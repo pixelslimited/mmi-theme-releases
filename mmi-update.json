@@ -1,0 +1,8 @@
+{
+  "version": "1.9.1",
+  "package": "https://raw.githubusercontent.com/pixelslimited/mmi-theme-releases/main/mmi-technologies-ltd-1.9.1.zip",
+  "sha256": "2d3d3e3969a15e066bd23941c8cf6ad770e1bfa1aee9f4a0c3781d80c78347fb",
+  "sig": "mWNUMX9AUnDDD/wcK6D3eh18JaUI+2bmuFEsbSY24FXaG1jGOT9RhZ0EYAm5OcJ0NGARTOJSfPwEHB9bJHhVCQ==",
+  "notes": "Drop artifact upload (account artifact storage quota is full); publish straight to the feed",
+  "released": "2026-11-09"
+}
