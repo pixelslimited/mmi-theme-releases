@@ -1,8 +1,8 @@
 {
-  "version": "1.9.2",
-  "package": "https://raw.githubusercontent.com/pixelslimited/mmi-theme-releases/main/mmi-technologies-ltd-1.9.2.zip",
-  "sha256": "ce3d533a0396283ee407a6bb11a9405d7fc66b37686869e302d4a83757e0d0bf",
-  "sig": "+YdXHnQDfWyG56Cj9tE0UN1eRMFrbEXW1ggCUBqBV0V5sJttAhVczLkSV73nm7hT/OrZgiyRe0qdSKl+j8TYBg==",
-  "notes": "1.9.2: bundle MMI logo and browser-tab icon (Customize logo still wins)",
+  "version": "1.9.3",
+  "package": "https://raw.githubusercontent.com/pixelslimited/mmi-theme-releases/main/mmi-technologies-ltd-1.9.3.zip",
+  "sha256": "c8ade39ba1585579d7a2707f651ac3f30c7934ae8e1eb92e3642b5cd4323fd42",
+  "sig": "t1uGVht+gD5BUC1QAk4HNhmPeNv83C7vag/5UyEiw6CSURCy3yk9O9J9E/tiA1dnFOWr0R0y0JlF7sygzsdSDA==",
+  "notes": "1.9.3: one-time setup restores or creates the five pages and sets the site title",
   "released": "2026-11-09"
 }
