@@ -1,8 +1,8 @@
 {
-  "version": "1.9.1",
-  "package": "https://raw.githubusercontent.com/pixelslimited/mmi-theme-releases/main/mmi-technologies-ltd-1.9.1.zip",
-  "sha256": "2d3d3e3969a15e066bd23941c8cf6ad770e1bfa1aee9f4a0c3781d80c78347fb",
-  "sig": "mWNUMX9AUnDDD/wcK6D3eh18JaUI+2bmuFEsbSY24FXaG1jGOT9RhZ0EYAm5OcJ0NGARTOJSfPwEHB9bJHhVCQ==",
-  "notes": "Drop artifact upload (account artifact storage quota is full); publish straight to the feed",
+  "version": "1.9.2",
+  "package": "https://raw.githubusercontent.com/pixelslimited/mmi-theme-releases/main/mmi-technologies-ltd-1.9.2.zip",
+  "sha256": "ce3d533a0396283ee407a6bb11a9405d7fc66b37686869e302d4a83757e0d0bf",
+  "sig": "+YdXHnQDfWyG56Cj9tE0UN1eRMFrbEXW1ggCUBqBV0V5sJttAhVczLkSV73nm7hT/OrZgiyRe0qdSKl+j8TYBg==",
+  "notes": "1.9.2: bundle MMI logo and browser-tab icon (Customize logo still wins)",
   "released": "2026-11-09"
 }
